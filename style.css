@@ -1,16 +1,28 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
+    background: #f4f4f4;
     text-align: center;
     margin: 0;
     padding: 20px;
 }
 
 h1 {
-    color: blue;
+    color: #0077cc;
+}
+
+h2 {
+    color: #333;
 }
 
 p {
-    font-size: 20px;
-    color: black;
+    font-size: 18px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    padding: 8px;
 }
